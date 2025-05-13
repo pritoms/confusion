@@ -1,0 +1,11 @@
+Process of pinning:
+. measure observable [check]
+. cnot into position [check]
+
+Measure observable:
+. from existing observation create projector
+. yield state vector image
+
+CNOT into position:
+. preparing copier variable
+. creating plane of interaction
