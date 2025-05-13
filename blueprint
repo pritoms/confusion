@@ -1,0 +1,18 @@
+This is a template:
+. required definitions [check]
+. estimated life-times [check]
+
+Required definitions:
+. initialization
+. preparation
+. propagation
+. termination
+. finalization
+
+Estimated life-times:
+. localization [x]
+. restoration [ ]
+. acquisition [ ]
+. construction [ ]
+. reconstruction [ ]
+. delocalization [ ]
