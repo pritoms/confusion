@@ -17,6 +17,26 @@ what can be done to any qubit:
 . project
 
 
+information processing:
+. stage all the physical qubits
+. initialize them in a sharp or mixed state
+. program the step sequencers (see : moment generator)
+. create labeled patterns (see : information state)
+. assign patterns to quantum channels
+. create automation clips (see : unitary operation)
+. link clips to control parameters
+. compose final runtime
+. build executable program
+
+
+running programs:
+. host execution somewhere
+. feed forward measured statistics
+. construct other computation pathways
+
+
+
+
 
 !! all comments below:
 
