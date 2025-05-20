@@ -1,0 +1,34 @@
+
+tutorial on writing programs for UQC:
+
+key idea:
+. you need to use motion of physical qubits to induce motion in abstract space defined by their eigenvalues (see : eigen-stuff)
+. your program uses the information attributes of the qubits to define logical properties of the program (see : attribute vs property)
+. using program attributes to define computation over the set of information variables the program manages, the abstract relationship is translated to physical motion of the objects like bits and qubits (see : bit vs qubit vs boolean)
+. you would write algorithms that takes care of initializing physical objects, preparing physical states, computing some function of the change, measuring the changed quantity and setting up of the next construction task
+
+
+what can be done to any qubit:
+. rotate
+. flip
+. control
+. smear
+. locate
+. project
+
+
+
+!! all comments below:
+
+use reference computation for control:
+. use packages like cirq, qiskit etc.
+. construct benchmark problems in their languages
+. 
+
+create equivalent descriptions:
+. describe computation involving procedures
+. create representation layer for information states
+. prepare all computers with identical problem description
+
+set assertions:
+. if programs written using proposed description creates identical outputs then the description is logically equivalent.
