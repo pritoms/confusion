@@ -1,3 +1,8 @@
+writing programs for UQC:
+. involve control from register supervisor
+. register supervisor constantly manages all the subspaces originating from anywhere in the register
+. there is no need to handle backend operations and manage inter-connectivity etc. and the manager will sniff out any implied connection and will go ahead and form that
+
 
 tutorial on writing programs for UQC:
 
@@ -32,10 +37,7 @@ information processing:
 running programs:
 . host execution somewhere
 . feed forward measured statistics
-. construct other computation pathways
-
-
-
+. construct other conditions on information flow
 
 
 !! all comments below:
