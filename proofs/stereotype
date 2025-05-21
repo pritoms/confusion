@@ -6,3 +6,15 @@ universe of stereotypes:
 . object
 . structure
 . type
+
+!! all comments below:
+. i shall talk in max of two lines about these:
+.. peaks and valleys in a cycle:
+.. . these are levels where truth exists simultaneously
+.. . what is true at a maxima is only true because of what is true or false at minima
+.. reversibility and conservation
+.. . because there is a relative high/low, there is also a relative near/far referring to the max/min
+.. . global reversibility can govern local inconsistency to the limit of sampling resolution
+.. circuit construction and locality
+.. . each countably many node can processed to create countably many antinodes by locally defined operators acting unitarily over finite region
+.. . locality is defined by the continuous evolution of all channels where the local operations create antinodes that remain within the windowed region
