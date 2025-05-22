@@ -1,0 +1,22 @@
+imaginary or complex mathematical object:
+. set
+. unit
+. rotation
+. line
+. non-real
+
+all comments below:
+. i = srqt(-1) which cannot happen in typical symbol manipulation
+. the effect of i * i yields a real point between (-inf, +inf)
+. doing arithmatic is possible if rotation and scaling is allowed
+. a + b*i is stereotypical complex number with part living in pure reality
+. part living in imagination is tethered to some component in the reals
+. the effect of b on the b*i segment could yield a real value back
+. expression of complex type is composable with other expression of the same type
+. a + b*i multiplied with a copy of itself will yield a*a + b*i * b*i which brings b*b to the opposite side at equal distance from the center
+. i will create a proof showing computationally that any expression like above could be realized using real expression inside a sphere.
+
+the proof object:
+. shall use spheres that interact
+. rotations are unproblematic
+. more later!
