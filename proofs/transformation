@@ -1,0 +1,32 @@
+considering spherical objects:
+. there is a volume defined on interior
+. volume contains many points
+. points outside the volume is projected
+. every point is adderessible
+. addressing requires transforming cartesian
+. transformation yields valid spherical coordinate
+. center of the object is crucial
+. identity is attached to the origin
+
+
+questions and unsharpness:
+. difference between n spheres
+. dimensional suppression?
+. every sphere can have volume
+. role of origin to that spherical object
+. description of a particular sphere
+. state of spherical object?
+. allowed operations applicable to spheres
+
+
+resolutions and clarifications:
+. some of them can have circles, balls, embedding
+. higher dimensional spheres embedded inside lower dimensional spheres
+. spheres only have surface are as measurable properties but balls could have volume
+. critial; sphere is defined as set of points constant distance away from origin
+. dimensionality, radius, center of embedding, parameters -- intrinsic such as curvature, metric tensor or extrinsically such as embedded properties in dimension larger than it
+. geometry, orientation, field values, phase state - minimal set of values used to determine behavior or identity
+
+
+development on the basis:
+. instead of taking about 
